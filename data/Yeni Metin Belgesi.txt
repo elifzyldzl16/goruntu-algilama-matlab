@@ -1,0 +1,1 @@
+Bu klasör kameradan alınan görüntüleri ve veri dosyalarını içerir.
